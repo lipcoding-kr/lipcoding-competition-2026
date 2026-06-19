@@ -38,9 +38,12 @@
 
 Discussions 보드의 [행사 참가를 위해 꼭 알고 있어야 할 내용입니다](https://github.com/lipcoding-kr/lipcoding-competition-2026/discussions/7) 포스트를 참고하세요.
 
+[**내 GitHub 계정은 입코딩 대회에서 쓸 수 있을까?**](https://github.com/lipcoding-kr/lipcoding-competition-2026/discussions/9)
+
 ## 대회 규칙
 
-TBD
+- [입코딩 규칙](./policies/policy-rules.md)
+- [페널티 규정](./policies/policy-penalties.md)
 
 ## 도전 과제
 
