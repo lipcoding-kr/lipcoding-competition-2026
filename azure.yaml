@@ -1,0 +1,18 @@
+name: lipcoding-competition-2026
+metadata:
+  template: azd-init
+
+services:
+  backend:
+    project: ./python-port/backend
+    language: python
+    host: containerapp
+    docker:
+      path: ./Dockerfile
+
+  proxy:
+    project: ./python-port
+    language: js
+    host: containerapp
+    docker:
+      path: ./nginx/Dockerfile
